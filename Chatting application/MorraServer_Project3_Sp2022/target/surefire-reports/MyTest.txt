@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: MyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.067 s <<< FAILURE! - in MyTest
+testing  Time elapsed: 0.042 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not equal numbers ==> expected: <1> but was: <2>
+	at MyTest.testing(MyTest.java:19)
+
